@@ -13,3 +13,7 @@ Back when I was excited about Go I wrote a Riak (by Basho) database driver: http
 I had the opportunity to build a Haskell team at one point. Wrote a streaming [telnet parser](https://github.com/alasconnect/pipes-telnet) or [two](https://github.com/alasconnect/streaming-network), as well as a highly commented demo of the [web stack](https://github.com/alasconnect/azure-demo) we landed on.
 
 A lot of my Rust experimentation isn't public in the form of Bevy game engine code writing. My latest tool is [DepthZ](https://github.com/mta-solutions/depthz/) which helps graph systems and infrastructure dependencies.
+
+## Stats
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boj&theme=tokyonight&layout=compact) ![boj's github stats](https://github-readme-stats.vercel.app/api?username=boj&theme=tokyonight)
