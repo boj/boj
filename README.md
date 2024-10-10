@@ -14,6 +14,10 @@ I had the opportunity to build a Haskell team at one point. Wrote a streaming [t
 
 A lot of my Rust experimentation isn't public in the form of Bevy game engine code writing. My latest tool is [DepthZ](https://github.com/mta-solutions/depthz/) which helps graph systems and infrastructure dependencies.
 
+## Gist Blog
+
+- [Zig Piece Table](https://gist.github.com/boj/83037946521516d324daf1361f13aad6): Talks about using Zig and implementing a text editor
+
 ## Stats
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boj&theme=tokyonight&layout=compact) ![boj's github stats](https://github-readme-stats.vercel.app/api?username=boj&theme=tokyonight)
