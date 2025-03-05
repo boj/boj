@@ -1,6 +1,6 @@
 ## Profile
 
-My name is Brian Jones and I hail from Eagle River, Alaska. I moved back to this beautiful state in 2018 after having lived in Japan for 12 years. I enjoy hiking with my daughter and our two border collies.
+My name is Brian Jones and I hail from Eagle River, Alaska. I moved back to this beautiful state in 2018 after having lived in Japan for 12 years working as a mobile game developer. I enjoy hiking with my daughter and our two border collies.
 
 I've worn both EM and IC hats throughout my career. For thoughts on how I approach management and leadership please see my [Manager README](https://managerreadme.com/readme/mojobojo).
 
